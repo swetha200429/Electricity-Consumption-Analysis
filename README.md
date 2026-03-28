@@ -1,5 +1,6 @@
 # Electricity-Consumption-Analysis
 📊 India’s Electricity Consumption Analysis using NumPy
+
 🔹 Project Description
 
 This project focuses on analyzing India’s electricity consumption data using NumPy.
